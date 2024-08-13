@@ -1,5 +1,5 @@
 {
-    "name": "wdd/slug",
+    "name": "khalil/slug2",
     "description": "slug creator",
     "type": "library",
     "license": "MIT",
@@ -7,7 +7,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "wdd\\slug\\": "src/"
+            "khalil\\slug2\\": "src/"
 
         }
     }

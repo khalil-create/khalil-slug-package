@@ -1,8 +1,8 @@
 <?php
-namespace wdd\slug\functions;
+namespace khalil\slug2\functions;
 
 use ErrorException;
-use wdd\slug\Models\Slug;
+use khalil\slug2\Models\Slug;
 
 class slugGen{
     public function generator33(string $title){
