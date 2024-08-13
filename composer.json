@@ -10,5 +10,10 @@
             "khalil\\slug2\\": "src/"
 
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": "khalil\\slug2\\SlugServiceProvider"
+        }
     }
 }
