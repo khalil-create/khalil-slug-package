@@ -1,11 +1,11 @@
 <?php
-namespace wdd\slug\Http\Controllers;
+namespace khalil\slug2\Http\Controllers;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Str;
 
 class SlugController extends Controller{
     public function index(){
         $slug = Str::slug('web developer laravel');
-        return view('wdd/slug::slug', compact('slug'));
+        return view('khalil/slug2::slug', compact('slug'));
     }
 }

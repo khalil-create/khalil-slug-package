@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "wdd\\slug\\": "src/"
+            "khalil\\slug2\\": "src/"
         }
     }
 }
